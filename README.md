@@ -36,6 +36,7 @@ public static void main(String[] args) throws IOException {
 - Додайте команди **deposit**, **withdraw** для **зарахування або зняття коштів** з обраного рахунку обраного клієнта
 - Додайте команду **save** для **зберігання оновленої інформації** про клієнтів банку та їх рахунки до файлу **test.dat**
 ### Виконання додаткових завдань
+![](/Image/scrin5.png)
 ![](/Image/scrin3.png)
 ![](/Image/scrin4.png)
-![](/Image/scrin5.png)
+
